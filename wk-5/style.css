@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+div{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-flow: row;
+}
